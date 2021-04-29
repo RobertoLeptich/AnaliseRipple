@@ -1,4 +1,4 @@
-# AnaliseRipple
+# Analise da Criptomoeda Ripple
 
 Criado no Jupyter notebook
 
