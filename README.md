@@ -13,4 +13,4 @@ Seaborn Version   :  0.11.0
 Plotly Version    :  4.14.3
 
 
-Dados obtidos do site Kaggle - https://www.kaggle.com/faushareef/cryptocurrencypricedata = Ripple
+Dados obtidos do site Kaggle - https://www.kaggle.com/faushareef/cryptocurrencypricedata = XRP
